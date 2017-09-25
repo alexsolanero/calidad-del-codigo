@@ -1,6 +1,6 @@
 package TrabajoProcesos;
 
-public class Bucle {
+public class Bu {
 	public static void main(String [] Args){
 		int notatrabajo=0;
 		if (notatrabajo==0){
