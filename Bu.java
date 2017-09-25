@@ -7,24 +7,7 @@ public class Bucle {
 			System.out.println("Suspenso");
 		}else if(notatrabajo==1){
 			System.out.println("Suspenso");
-		}else if(notatrabajo==2){
-			System.out.println("Suspenso");
-		}else if(notatrabajo==3){
-			System.out.println("Suspenso");
-		}else if(notatrabajo==4){
-			System.out.println("Suspenso");
-		}else if(notatrabajo==5){
-			System.out.println("Aprobado");
-		}else if(notatrabajo==6){
-			System.out.println("Aprobado");
-		}else if(notatrabajo==7){
-			System.out.println("Aprobado");
-		}else if(notatrabajo==8){
-			System.out.println("Aprobado");
-		}else if(notatrabajo==9){
-			System.out.println("Aprobado");
-		}else if(notatrabajo==10){
-			System.out.println("Aprobado");
+		}
 		}
 	}
 }
