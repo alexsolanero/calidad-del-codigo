@@ -1,6 +1,6 @@
 package duplicaciones;
 
-public class duplica {
+public class Duplica {
 
 	/**
 	 * @param args
