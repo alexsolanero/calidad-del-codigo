@@ -1,0 +1,18 @@
+package duplicaciones;
+
+public class DuplicaCorregida {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		int duplicacion=0;
+	
+		
+		for(int a=0;a<20;a++){
+			duplicacion++;
+	    }
+		
+
+}
+}
